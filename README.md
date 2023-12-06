@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aburnsy
-- 👀 I’m interested in ...Data Analytics and Full Stack Web Development
-- 🌱 I’m currently learning ...Redux + Thunk
+- 👀 I’m interested in ...Data Analytics
+- 🌱 I’m currently learning ...Polars
 - 💞️ I’m looking to collaborate on ...Anything at all
 - 📫 How to reach me ...PM 
 
